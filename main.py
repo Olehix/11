@@ -1,0 +1,1 @@
+from homework11 import function1 as f1, function2 as f2
