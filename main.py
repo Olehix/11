@@ -1,1 +1,3 @@
-from homework11 import function1 as f1, function2 as f2
+from homework11 import func as f, func1 as f1
+f()
+f1()
